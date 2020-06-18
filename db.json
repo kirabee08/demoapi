@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "documents": [
     {
       "id": 1,
-      "title": "hello"
+      "author": "Sergey Kulakov",
+      "title": "Demo document 1"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "kirabee08"
   }
 }
