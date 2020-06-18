@@ -1,9 +1,9 @@
 {
-  documents: [
+  "documents": [
     {
-      id: 1,
-      author: "Sergey Kulakov",
-      title: "Demo Document 1"
+      "id": 1,
+      "author": "Sergey Kulakov",
+      "title": "Demo Document 1"
     }
   ]
 }
