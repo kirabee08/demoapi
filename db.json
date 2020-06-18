@@ -1,9 +1,11 @@
 {
-  "documents": [
+  "posts": [
     {
       "id": 1,
-      "author": "Sergey Kulakov",
-      "title": "Demo Document 1"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
